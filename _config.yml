@@ -1,6 +1,5 @@
 title: Enlish Archive
-logo: /assets/img/headshot_circle.png
-#description: text below image
-Информация
+#logo: /assets/img/headshot_circle.png
+description: Информация
 show_downloads: true
 theme: jekyll-theme-minima
