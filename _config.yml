@@ -4,4 +4,5 @@ description: Информация
 show_downloads: true
 theme: minima
 skin: dark 
-plugins: jekyll-feed
+plugins:
+  -jekyll-feed
